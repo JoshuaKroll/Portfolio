@@ -13,6 +13,7 @@
           return false;
         }
       }
+      
     });
   
     // Closes responsive menu when a scroll trigger link is clicked
